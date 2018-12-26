@@ -80,3 +80,5 @@ host: 0.0.0.0
 
 # please use a protocol relative URL here
 baseurl: //doc.flink-china.org/1.2.0/
+
+theme: jekyll-theme-cayman
